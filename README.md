@@ -1,4 +1,4 @@
-The rise of encrypted messaging and social media apps like Telegram, WhatsApp, and Instagram for drug trafficking presents a significant challenge. Traffickers use these platforms to offer a variety of narcotic drugs and psychotropic substances for sale. They often create channels on Telegram and WhatsApp or Instagram handles for this purpose, and some even use customized Telegram bots. The drugs being trafficked include dangerous synthetic substances such as MDMA, LSD, and Mephedrone. Additionally, these platforms are used for drug-related communication.
+The rise of encrypted messaging and social media apps like facebook, WhatsApp, and Instagram for drug trafficking presents a significant challenge. Traffickers use these platforms to offer a variety of narcotic drugs and psychotropic substances for sale. They often create channels on facebook and WhatsApp or Instagram handles for this purpose, and some even use customized facebook bots. The drugs being trafficked include dangerous synthetic substances such as MDMA, LSD, and Mephedrone. Additionally, these platforms are used for drug-related communication.
 
 ### SOLUTION
 
@@ -6,7 +6,7 @@ Identifying users involved in drug trafficking on messaging platforms requires a
 
 **1. DATA COLLECTION AND MONITORING**
 - **Social Media Monitoring:** Employ tools to track public and semi-public data on social media, focusing on keywords, hashtags, and mentions related to drug trafficking.
-- **Chat Analysis:** For encrypted platforms like Telegram and WhatsApp, leverage available metadata or collaborate with service providers for lawful data interception.
+- **Chat Analysis:** For encrypted platforms like facebook and WhatsApp, leverage available metadata or collaborate with service providers for lawful data interception.
 
 **2. TEXT AND CONTENT ANALYSIS**
 - **Natural Language Processing (NLP):** Use NLP to analyze text for drug-related keywords, slang, and patterns. This includes sentiment analysis, topic modeling, and entity recognition.
