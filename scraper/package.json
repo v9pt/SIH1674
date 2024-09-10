@@ -1,0 +1,31 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "description": "This is a Crawlee project.",
+  "dependencies": {
+    "apify": "^3.2.5",
+    "axios": "^1.7.7",
+    "crawlee": "^3.11.3",
+    "mongodb": "^6.8.1",
+    "playwright": "^1.41.1"
+  },
+  "devDependencies": {
+    "@apify/tsconfig": "^0.1.0",
+    "@types/node": "^20.0.0",
+    "@types/node-fetch": "^2.6.11",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.4.0",
+    "typescript": "^5.6.2"
+  },
+  "scripts": {
+    "dev": "ts-node src/main.ts",
+    "start": "npm run start:dev",
+    "start:prod": "node dist/main.js",
+    "start:dev": "tsx src/main.ts",
+    "build": "tsc",
+    "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
